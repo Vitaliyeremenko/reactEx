@@ -1,0 +1,5 @@
+export const contactsConstants = {
+  REQUEST: 'MESSAGE_REQUEST',
+  SUCCESS: 'MESSAGE_SUCCESS',
+  FAILURE: 'MESSAGE_FAILURE',
+}
